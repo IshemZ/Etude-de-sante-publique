@@ -12,7 +12,7 @@ anaconda-cloud-auth @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt50000
 anaconda-navigator @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_1cm5bladz0/croot/anaconda-navigator_1695236701001/work
 anaconda-project @ file:///Users/cbousseau/work/recipes/ci_py311/anaconda-project_1677964558977/work
 anyio @ file:///Users/cbousseau/work/recipes/ci_py311/anyio_1677917528418/work/dist
-appdirs==1.4.4
+appdirs==1.4.4 
 applaunchservices @ file:///Users/cbousseau/work/recipes/ci_py311/applaunchservices_1677955996025/work
 appnope==0.1.3
 appscript @ file:///Users/cbousseau/work/recipes/ci_py311/appscript_1677956964648/work
